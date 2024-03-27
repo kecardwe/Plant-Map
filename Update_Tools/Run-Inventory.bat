@@ -1,0 +1,1 @@
+call D:/KMS-Inventory-Gatherer.Bat >> D:/output.txt
